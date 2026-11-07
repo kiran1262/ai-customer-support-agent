@@ -1,0 +1,32 @@
+{
+  "ORD-1001": {
+    "order_id": "ORD-1001",
+    "customer_email": "asha@example.com",
+    "status": "shipped",
+    "items": [{"name": "Wireless Mouse", "qty": 1, "price": 799}],
+    "total": 799,
+    "carrier": "BlueDart",
+    "tracking_number": "BD123456789IN",
+    "estimated_delivery": "2026-11-10"
+  },
+  "ORD-1002": {
+    "order_id": "ORD-1002",
+    "customer_email": "ravi@example.com",
+    "status": "delivered",
+    "items": [{"name": "Mechanical Keyboard", "qty": 1, "price": 3499}],
+    "total": 3499,
+    "carrier": "Delhivery",
+    "tracking_number": "DL987654321IN",
+    "delivered_on": "2026-11-01"
+  },
+  "ORD-1003": {
+    "order_id": "ORD-1003",
+    "customer_email": "meena@example.com",
+    "status": "processing",
+    "items": [{"name": "USB-C Hub", "qty": 2, "price": 1299}],
+    "total": 2598,
+    "carrier": null,
+    "tracking_number": null,
+    "estimated_delivery": "2026-11-14"
+  }
+}

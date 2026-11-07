@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any unused item within 30 days of delivery for a full refund. Items must be in original packaging."
+  },
+  {
+    "question": "How long does a refund take?",
+    "answer": "Refunds are issued to the original payment method within 5-7 business days after we receive the returned item."
+  },
+  {
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days within India. Express shipping takes 1-2 business days."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled while the status is 'processing'. Once an order has shipped, you need to return it after delivery."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Once an order ships you receive a carrier name and tracking number. Share your order ID and we can look it up for you."
+  },
+  {
+    "question": "What warranty do your products have?",
+    "answer": "All electronics carry a 12-month manufacturer warranty covering defects. Physical damage is not covered."
+  }
+]
